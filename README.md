@@ -33,9 +33,9 @@ A real-time webcam filter application built with Python and OpenCV. Apply variou
 
 2. **Run the application**:
    ```bash
-   git clone https://github.com/yourusername/webcam-filters.git
+   git clone https://github.com/yourusername/live-webcam-filters.git
    cd webcam-filters
-   python webcam_filters.py
+   python live_webcam_filters.py
 
 **Usage 🚀**
 
